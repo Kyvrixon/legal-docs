@@ -27,8 +27,4 @@ You can request access to or correction of your personal information by contacti
 This policy may be updated. Changes will be posted on this page.
 
 **9. Contact**  
-For privacy queries, contact: [Your Email Address]
-
----
-
-Replace “[Insert Date]” and “[Your Email Address]” as needed. Let me know if you want any section expanded.
+For privacy queries, contact team@kyvrixon.dev
